@@ -2,6 +2,8 @@
 # AI-Powered Dropshipping  
 
 A modern zero-inventory eCommerce platform powered by AI that helps predict demand, optimize supplier inventory, and automate operations from marketing to logistics.
+![image](https://github.com/user-attachments/assets/c670b945-5f34-4d38-93c1-ea1d89a9d9c8)
+
 
 ## Features
 
@@ -10,30 +12,33 @@ A modern zero-inventory eCommerce platform powered by AI that helps predict dema
   - AI-driven sales predictions
   - Custom performance charts
   - Inventory alerts
-
+![image](https://github.com/user-attachments/assets/746587f6-aef3-49fc-885d-bec8d174e61d)
 - 🏪 **Product Management**
   - Product catalog with categories
   - Stock level monitoring
   - AI-based pricing optimization
   - Automated product imports
+![image](https://github.com/user-attachments/assets/ef4b4cf0-4216-4a39-8674-362bc64eee14)
 
 - 🤝 **Supplier Management**
   - Supplier performance tracking
   - Automated inventory sync
   - Communication platform
   - Quality metrics
+![image](https://github.com/user-attachments/assets/ea090449-87db-4501-8a81-fe2d28fabc61)
 
 - 🛍️ **Order Processing**
   - Automated order routing
   - Status tracking
   - Bulk processing
   - Customer notifications
-
+![image](https://github.com/user-attachments/assets/c97f49c1-7a53-4ea6-b40a-fe3b034eb81c)
 - 📈 **Marketing Tools**
   - Campaign management
   - Performance tracking
   - AI-driven recommendations
   - Customer targeting
+
 
 ## Tech Stack
 
